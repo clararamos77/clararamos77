@@ -48,12 +48,12 @@
 
 ---
 
-### 🟪 Latest Commit Energy
+### Latest Commit Energy
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=clararamos77&show_icons=true&theme=github_dark&hide_border=true&title_color=7C66FF&icon_color=7C66FF&text_color=ffffff" />
 </p>
 
 <p align="center">
-  <em>Everything will be okay — keep building.</em> 🟪
+  <em>Everything will be okay — keep building.</em> 
 </p>
