@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Clara Ramos 👋</h1>
 
 <p align="center">
-  <em>Software Developer | 42 Student</em>
+  <em>Software Engineer | 42 School Transcender</em>
 </p>
 
 <p align="center">
