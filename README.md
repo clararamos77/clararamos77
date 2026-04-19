@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Clara Ramos 👋</h1>
 
 <p align="center">
-  <em>Software Engineer • Tech Content Creator • 1x Microsoft MVP</em>
+  <em>Software Engineer</em>
 </p>
 
 <p align="center">
@@ -16,13 +16,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fernanda-kipper-5958a61a9/">
+  <a href="https://www.linkedin.com/in/clararamos77/">
     <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
-  <a href="https://fernandakipper.com/">
+  <a href="https://clararamos.github.io/">
     <img src="https://img.shields.io/badge/-Website-00AB33?style=flat-square&logo=Google-Chrome&logoColor=white">
   </a>
-  <a href="mailto:contato@fernandakipper.com">
+  <a href="mailto:######">
     <img src="https://img.shields.io/badge/-contato@fernandakipper.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
   </a>
 </p>
@@ -50,7 +50,7 @@
 ### 🟩 Latest Commit Energy
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Fernanda-Kipper&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api?username=clararamos77&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
 </p>
 
 <p align="center">
